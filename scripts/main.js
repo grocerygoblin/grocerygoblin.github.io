@@ -7,4 +7,4 @@ myImage.onClick = () => {
     } else {
         myImage.setAttribute("src", "\images\cross.png");
     }
-};
+}; 
